@@ -1,4 +1,3 @@
-# Administrative-documents
+# Administrative
 
-Documents: HR documents, Financial, Marketing, Management and Sales
 
